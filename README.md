@@ -1,6 +1,6 @@
 # ionic_blog practice
 
-##INSTALL
+###INSTALL
   * nodejs LTS
   * codorva CLI
   * ionic framework
