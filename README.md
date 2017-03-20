@@ -1,6 +1,7 @@
 # ionic_blog practice
 
-###INSTALL
+### INSTALL
   * nodejs LTS
-  * codorva CLI
-  * ionic framework
+  * ionic framework + cordova : npm install -g ionic cordova
+  * github (init , commit , remote , push , pull )
+  
