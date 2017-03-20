@@ -1,7 +1,7 @@
 # ionic_blog practice
 
 INSTALL
-  NOJES LTS
-  CODORVA CLI
-  IONIC 
+  <P>NOJES LTS<P>
+  <p>CODORVA CLI</p>
+  <p>IONIC FRAMEWORK</P>
   
